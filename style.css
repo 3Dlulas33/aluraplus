@@ -22,7 +22,7 @@ body {
 }
  /*Luiz Eduardo Alemida Mororo 3D 25/09/2024*/
 .principal {
-    background-image: url("img/Background.png");
+    background-image: url("Background.png");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
